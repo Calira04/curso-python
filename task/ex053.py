@@ -2,7 +2,7 @@
 Arquivo: ex053.py
 Autor: Carlos Lira
 Data: 28/12/2025
-Descrição: 
+Descrição: Verificador de palíndromo.
 """
 
 frase = str(input("Digite uma frase: ")).strip().upper()
