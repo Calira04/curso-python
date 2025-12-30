@@ -7,6 +7,7 @@ Descrição: Programa que lê vários números inteiros do usuário e calcula a 
 
 num = 0
 valor = 0
+qtde = 0
 
 while valor != 999:
     valor = int(input('Digite um número: '))
