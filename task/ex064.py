@@ -11,6 +11,8 @@ qtde = 0
 
 while valor != 999:
     valor = int(input('Digite um número: '))
+    
     if valor != 999:
         num += valor  
-print(num)
+        qtde += 1
+print(f'A soma dos {qtde} valores foi {num}.')
