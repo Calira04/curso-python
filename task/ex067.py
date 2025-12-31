@@ -2,7 +2,7 @@
 Arquivo: ex067.py
 Autor: Carlos Lira
 Data: 30/12/2025
-Descrição: 
+Descrição: Programa que exibe a tabuada de um número solicitado ao usuário.
 """
 
 num = 0
